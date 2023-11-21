@@ -6,6 +6,6 @@ export default function FirstComponent() {
 
 export function FifthComponent() {
     return (
-      <div className="FifthComponent">Fifth Component</div>
+      <div className="FifthComponent">Fifth fifth Component</div>
     );
   }
